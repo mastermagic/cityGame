@@ -1,0 +1,54 @@
+E:\docs\Private\Bis\Блиц по городам\vk.net\WindowsFormsVk\bin\Debug\WindowsFormsVk.exe.config
+E:\docs\Private\Bis\Блиц по городам\vk.net\WindowsFormsVk\bin\Debug\WindowsFormsVk.exe
+E:\docs\Private\Bis\Блиц по городам\vk.net\WindowsFormsVk\bin\Debug\WindowsFormsVk.pdb
+E:\docs\Private\Bis\Блиц по городам\vk.net\WindowsFormsVk\bin\Debug\AngleSharp.dll
+E:\docs\Private\Bis\Блиц по городам\vk.net\WindowsFormsVk\bin\Debug\JetBrains.Annotations.dll
+E:\docs\Private\Bis\Блиц по городам\vk.net\WindowsFormsVk\bin\Debug\Newtonsoft.Json.dll
+E:\docs\Private\Bis\Блиц по городам\vk.net\WindowsFormsVk\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\docs\Private\Bis\Блиц по городам\vk.net\WindowsFormsVk\bin\Debug\VkNet.UWP.dll
+E:\docs\Private\Bis\Блиц по городам\vk.net\WindowsFormsVk\bin\Debug\AngleSharp.xml
+E:\docs\Private\Bis\Блиц по городам\vk.net\WindowsFormsVk\bin\Debug\JetBrains.Annotations.xml
+E:\docs\Private\Bis\Блиц по городам\vk.net\WindowsFormsVk\bin\Debug\Newtonsoft.Json.xml
+E:\docs\Private\Bis\Блиц по городам\vk.net\WindowsFormsVk\bin\Debug\VkNet.UWP.xml
+E:\docs\Private\Bis\Блиц по городам\vk.net\WindowsFormsVk\obj\Debug\WindowsFormsVk.csprojResolveAssemblyReference.cache
+E:\docs\Private\Bis\Блиц по городам\vk.net\WindowsFormsVk\obj\Debug\WindowsFormsVk.Form1.resources
+E:\docs\Private\Bis\Блиц по городам\vk.net\WindowsFormsVk\obj\Debug\WindowsFormsVk.Properties.Resources.resources
+E:\docs\Private\Bis\Блиц по городам\vk.net\WindowsFormsVk\obj\Debug\WindowsFormsVk.csproj.GenerateResource.Cache
+E:\docs\Private\Bis\Блиц по городам\vk.net\WindowsFormsVk\obj\Debug\WindowsFormsVk.exe
+E:\docs\Private\Bis\Блиц по городам\vk.net\WindowsFormsVk\obj\Debug\WindowsFormsVk.pdb
+E:\docs\Private\Bis\CityBlitz\Блиц по городам\CityGame\cityGame\WindowsFormsVk\bin\Debug\WindowsFormsVk.exe.config
+E:\docs\Private\Bis\CityBlitz\Блиц по городам\CityGame\cityGame\WindowsFormsVk\bin\Debug\WindowsFormsVk.exe
+E:\docs\Private\Bis\CityBlitz\Блиц по городам\CityGame\cityGame\WindowsFormsVk\bin\Debug\WindowsFormsVk.pdb
+E:\docs\Private\Bis\CityBlitz\Блиц по городам\CityGame\cityGame\WindowsFormsVk\bin\Debug\AngleSharp.dll
+E:\docs\Private\Bis\CityBlitz\Блиц по городам\CityGame\cityGame\WindowsFormsVk\bin\Debug\JetBrains.Annotations.dll
+E:\docs\Private\Bis\CityBlitz\Блиц по городам\CityGame\cityGame\WindowsFormsVk\bin\Debug\Newtonsoft.Json.dll
+E:\docs\Private\Bis\CityBlitz\Блиц по городам\CityGame\cityGame\WindowsFormsVk\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\docs\Private\Bis\CityBlitz\Блиц по городам\CityGame\cityGame\WindowsFormsVk\bin\Debug\VkNet.UWP.dll
+E:\docs\Private\Bis\CityBlitz\Блиц по городам\CityGame\cityGame\WindowsFormsVk\bin\Debug\AngleSharp.xml
+E:\docs\Private\Bis\CityBlitz\Блиц по городам\CityGame\cityGame\WindowsFormsVk\bin\Debug\JetBrains.Annotations.xml
+E:\docs\Private\Bis\CityBlitz\Блиц по городам\CityGame\cityGame\WindowsFormsVk\bin\Debug\Newtonsoft.Json.xml
+E:\docs\Private\Bis\CityBlitz\Блиц по городам\CityGame\cityGame\WindowsFormsVk\bin\Debug\VkNet.UWP.xml
+E:\docs\Private\Bis\CityBlitz\Блиц по городам\CityGame\cityGame\WindowsFormsVk\obj\Debug\WindowsFormsVk.csprojResolveAssemblyReference.cache
+E:\docs\Private\Bis\CityBlitz\Блиц по городам\CityGame\cityGame\WindowsFormsVk\obj\Debug\WindowsFormsVk.Form1.resources
+E:\docs\Private\Bis\CityBlitz\Блиц по городам\CityGame\cityGame\WindowsFormsVk\obj\Debug\WindowsFormsVk.Properties.Resources.resources
+E:\docs\Private\Bis\CityBlitz\Блиц по городам\CityGame\cityGame\WindowsFormsVk\obj\Debug\WindowsFormsVk.csproj.GenerateResource.Cache
+E:\docs\Private\Bis\CityBlitz\Блиц по городам\CityGame\cityGame\WindowsFormsVk\obj\Debug\WindowsFormsVk.exe
+E:\docs\Private\Bis\CityBlitz\Блиц по городам\CityGame\cityGame\WindowsFormsVk\obj\Debug\WindowsFormsVk.pdb
+E:\docs\Private\Bis\CityBlitz\cityGame\WindowsFormsVk\bin\Debug\WindowsFormsVk.exe.config
+E:\docs\Private\Bis\CityBlitz\cityGame\WindowsFormsVk\bin\Debug\WindowsFormsVk.exe
+E:\docs\Private\Bis\CityBlitz\cityGame\WindowsFormsVk\bin\Debug\WindowsFormsVk.pdb
+E:\docs\Private\Bis\CityBlitz\cityGame\WindowsFormsVk\bin\Debug\AngleSharp.dll
+E:\docs\Private\Bis\CityBlitz\cityGame\WindowsFormsVk\bin\Debug\JetBrains.Annotations.dll
+E:\docs\Private\Bis\CityBlitz\cityGame\WindowsFormsVk\bin\Debug\Newtonsoft.Json.dll
+E:\docs\Private\Bis\CityBlitz\cityGame\WindowsFormsVk\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\docs\Private\Bis\CityBlitz\cityGame\WindowsFormsVk\bin\Debug\VkNet.UWP.dll
+E:\docs\Private\Bis\CityBlitz\cityGame\WindowsFormsVk\bin\Debug\AngleSharp.xml
+E:\docs\Private\Bis\CityBlitz\cityGame\WindowsFormsVk\bin\Debug\JetBrains.Annotations.xml
+E:\docs\Private\Bis\CityBlitz\cityGame\WindowsFormsVk\bin\Debug\Newtonsoft.Json.xml
+E:\docs\Private\Bis\CityBlitz\cityGame\WindowsFormsVk\bin\Debug\VkNet.UWP.xml
+E:\docs\Private\Bis\CityBlitz\cityGame\WindowsFormsVk\obj\Debug\WindowsFormsVk.csprojResolveAssemblyReference.cache
+E:\docs\Private\Bis\CityBlitz\cityGame\WindowsFormsVk\obj\Debug\WindowsFormsVk.Form1.resources
+E:\docs\Private\Bis\CityBlitz\cityGame\WindowsFormsVk\obj\Debug\WindowsFormsVk.Properties.Resources.resources
+E:\docs\Private\Bis\CityBlitz\cityGame\WindowsFormsVk\obj\Debug\WindowsFormsVk.csproj.GenerateResource.Cache
+E:\docs\Private\Bis\CityBlitz\cityGame\WindowsFormsVk\obj\Debug\WindowsFormsVk.exe
+E:\docs\Private\Bis\CityBlitz\cityGame\WindowsFormsVk\obj\Debug\WindowsFormsVk.pdb
