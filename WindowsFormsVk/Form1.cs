@@ -38,7 +38,7 @@ namespace WindowsFormsVk
             }
             catch (Exception)
             {
-                MessageBox.Show("Ошибка чтения файла данных об аккаунте");
+                MessageBox.Show("Ошибка чтения файла данных аккаунта");
                 return;
             }
         }
@@ -46,13 +46,22 @@ namespace WindowsFormsVk
         private void button1_Click(object sender, EventArgs e)
         {
             var api = new VkApi();
-            api.Authorize(new ApiAuthParams
+            // авторизуемся
+            try
             {
-                ApplicationId = appId,
-                Login = login,
-                Password = pass,
-                Settings = Settings.All
-            }); // авторизуемся
+                api.Authorize(new ApiAuthParams
+                {
+                    ApplicationId = appId,
+                    Login = login,
+                    Password = pass,
+                    Settings = Settings.All
+                });
+            }
+            catch (Exception)
+            {
+                MessageBox.Show("Ошибка авторизации");
+                return;
+            }
 
             //var group = api.Utils.ResolveScreenName("leningradka63"); // получаем id сущности с коротким именем habr
 
